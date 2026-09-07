@@ -1,0 +1,42 @@
+[
+  {
+    "id": "reel-1",
+    "title": "How Aaji makes Ambadi Lonche in Kolhapur courtyard",
+    "title_mr": "आजीच्या हातचे अंबाडी लोणचे कसे बनते?",
+    "duration": "0:58",
+    "views": "240K",
+    "thumbnail": "https://images.unsplash.com/photo-1626777552726-4a6b54c97e46?auto=format&fit=crop&w=600&q=80",
+    "recipe_tag": "Pickle Secrets",
+    "product_linked": "ambadi-bhajiche-lonche"
+  },
+  {
+    "id": "reel-2",
+    "title": "The secret to non-oily crunchy Bhajani Chakli",
+    "title_mr": "कुरकुरीत चकलीची आजीची सोपी युक्ती",
+    "duration": "1:15",
+    "views": "410K",
+    "thumbnail": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=600&q=80",
+    "recipe_tag": "Faral Festival",
+    "product_linked": "bhajani-chakli-mix"
+  },
+  {
+    "id": "reel-3",
+    "title": "Fiery Kolhapuri Thecha on Cast Iron Tawa",
+    "title_mr": "लोखंडी तव्यावर खरपूस भाजलेला कोल्हापुरी ठेचा",
+    "duration": "0:45",
+    "views": "385K",
+    "thumbnail": "https://images.unsplash.com/photo-1596797038530-2c107229654b?auto=format&fit=crop&w=600&q=80",
+    "recipe_tag": "Spicy Tradition",
+    "product_linked": "kolhapuri-mirchi-thecha"
+  },
+  {
+    "id": "reel-4",
+    "title": "Perfect Sunday Solkadhi with Pure Kokum Agal",
+    "title_mr": "शुद्ध कोकम आगल वापरून बनवा गुलाबी सोलकढी",
+    "duration": "1:02",
+    "views": "190K",
+    "thumbnail": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=600&q=80",
+    "recipe_tag": "Konkan Refreshment",
+    "product_linked": "kokum-agal-extract"
+  }
+]

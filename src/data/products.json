@@ -1,0 +1,565 @@
+[
+  {
+    "id": "ambadi-bhajiche-lonche",
+    "title": "Ambadi Bhajiche Lonche",
+    "title_mr": "अंबाडी भाजीचे पारंपारिक लोणचे",
+    "category": "Pickles",
+    "category_mr": "लोणची",
+    "price": 240,
+    "mrp": 300,
+    "weight_g": 280,
+    "price_per_100g": 85.7,
+    "images": [
+      "https://images.unsplash.com/photo-1626777552726-4a6b54c97e46?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1596797038530-2c107229654b?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80"
+    ],
+    "ingredients": ["fresh ambadi (roselle leaves)", "byadagi red chili", "cold-pressed mustard oil", "fenugreek seeds", "asafoetida (hing)", "iodized salt", "turmeric"],
+    "allergen": "Contains mustard. Made in a facility handling sesame and nuts.",
+    "fssai": "11522055000389",
+    "best_before_days": 180,
+    "nutrition": {
+      "calories": "145 kcal",
+      "fat": "9.2g",
+      "protein": "2.4g",
+      "carbs": "12.8g",
+      "sodium": "1120mg"
+    },
+    "tags": ["sour & tangy", "roselle", "iron-rich", "traditional", "homemade", "shelf-stable", "vegetarian"],
+    "spice_level": "medium",
+    "dietary": ["vegan", "gluten_free"],
+    "popularity_score": 96,
+    "rating": 4.9,
+    "review_count": 184,
+    "description": "Authentic Roselle leaves (Ambadi) slow-cooked with roasted methi, byadagi chilies, and pure cold-pressed mustard oil. Tangy, zesty, and reminiscent of Aaji's earthen barni stored in the courtyard.",
+    "description_mr": "आजीच्या हातची अस्सल चव! आंबट-तिखट अंबाडीच्या पानांचे लोणचे शुद्ध मोहरीच्या तेलात मुरवलेले, भाकरी आणि गरम भातासोबत अप्रतिम.",
+    "recipe_heritage": "Originated in Vidarbha & Marathwada where seasonal monsoon Ambadi leaves are harvested fresh and sun-cured with ground spices.",
+    "storage": "Keep in a cool dry place away from direct sunlight. Ensure oil layer covers the pickle. Always use a clean dry spoon.",
+    "variants": [
+      {"id": "v1", "label": "280g Jar", "price": 240, "weight_g": 280, "price_per_100g": 85.7},
+      {"id": "v2", "label": "500g Jar", "price": 410, "weight_g": 500, "price_per_100g": 82.0},
+      {"id": "v3", "label": "1kg Bulk Pack", "price": 780, "weight_g": 1000, "price_per_100g": 78.0}
+    ]
+  },
+  {
+    "id": "kolhapuri-mirchi-thecha",
+    "title": "Kolhapuri Mirchi Thecha (Kharda)",
+    "title_mr": "कोल्हापुरी झणझणीत मिरचीचा ठेचा (खरडा)",
+    "category": "Thecha & Chutneys",
+    "category_mr": "ठेचा आणि चटण्या",
+    "price": 180,
+    "mrp": 220,
+    "weight_g": 250,
+    "price_per_100g": 72.0,
+    "images": [
+      "https://images.unsplash.com/photo-1596797038530-2c107229654b?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1626777552726-4a6b54c97e46?auto=format&fit=crop&w=800&q=80"
+    ],
+    "ingredients": ["fresh green lavangi chilies", "roasted garlic cloves", "roasted groundnuts (peanuts)", "cumin seeds (jeera)", "rock salt", "groundnut oil"],
+    "allergen": "Contains peanuts and garlic.",
+    "fssai": "11522055000389",
+    "best_before_days": 120,
+    "nutrition": {
+      "calories": "210 kcal",
+      "fat": "14.5g",
+      "protein": "4.8g",
+      "carbs": "15.2g",
+      "sodium": "890mg"
+    },
+    "tags": ["spicy", "fiery", "kolhapuri", "roasted garlic", "crushed", "bestseller", "bhakri-companion"],
+    "spice_level": "kolhapuri_fiery",
+    "dietary": ["vegan", "gluten_free"],
+    "popularity_score": 99,
+    "rating": 4.95,
+    "review_count": 342,
+    "description": "Authentic stone-pounded (khalbatta) green chili thecha prepared with pungent Lavangi chilies, golden roasted garlic, and crunchy roasted peanuts in pure groundnut oil. True Kolhapuri kick!",
+    "description_mr": "लवंगी मिरची, भाजलेला लसूण आणि खमंग शेंगदाणे खलबत्त्यात कुटून तयार केलेला अस्सल कोल्हापुरी झणझणीत ठेचा.",
+    "recipe_heritage": "Made using the traditional cast-iron tawa roasting technique followed by coarse pounding in stone mortars for that signature rustic crunch.",
+    "storage": "Store refrigerated after opening to preserve green vibrancy and kick. Consume with hot Jowar Bhakri and pure ghee.",
+    "variants": [
+      {"id": "v1", "label": "250g Jar", "price": 180, "weight_g": 250, "price_per_100g": 72.0},
+      {"id": "v2", "label": "500g Jar", "price": 330, "weight_g": 500, "price_per_100g": 66.0}
+    ]
+  },
+  {
+    "id": "shengdana-chutney",
+    "title": "Solapuri Shengdana Chutney",
+    "title_mr": "सोलापुरी खमंग शेंगदाणा चटणी",
+    "category": "Thecha & Chutneys",
+    "category_mr": "ठेचा आणि चटण्या",
+    "price": 160,
+    "mrp": 190,
+    "weight_g": 200,
+    "price_per_100g": 80.0,
+    "images": [
+      "https://images.unsplash.com/photo-1596797038530-2c107229654b?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80"
+    ],
+    "ingredients": ["slow-roasted bold peanuts", "sankeshwari red chili powder", "garlic flakes", "cumin seeds", "salt"],
+    "allergen": "Contains peanuts and garlic.",
+    "fssai": "11522055000389",
+    "best_before_days": 180,
+    "nutrition": {
+      "calories": "310 kcal",
+      "fat": "22.0g",
+      "protein": "9.5g",
+      "carbs": "16.0g",
+      "sodium": "640mg"
+    },
+    "tags": ["peanut", "crispy", "nutty", "dry-chutney", "daily-essential", "high-protein"],
+    "spice_level": "medium",
+    "dietary": ["vegan", "gluten_free"],
+    "popularity_score": 92,
+    "rating": 4.85,
+    "review_count": 210,
+    "description": "Crisp and dry Solapur-style roasted peanut chutney with aromatic garlic and spicy red chili. Sprinkled over hot bhakri with groundnut oil or paired with steaming dal-chawal.",
+    "description_mr": "बारीक भाजलेले शेंगदाणे, लसूण आणि शंकेश्वरी लाल मिरचीने भरलेली खमंग कोरडी चटणी. प्रत्येक जेवणाची रंगत वाढवणारी.",
+    "recipe_heritage": "Inspired by the famed Solapuri roadside dhabas where rustic peanut chutney is a non-negotiable table condiment.",
+    "storage": "Keep in an airtight jar. No refrigeration needed.",
+    "variants": [
+      {"id": "v1", "label": "200g Pouch", "price": 160, "weight_g": 200, "price_per_100g": 80.0},
+      {"id": "v2", "label": "400g Value Pack", "price": 290, "weight_g": 400, "price_per_100g": 72.5}
+    ]
+  },
+  {
+    "id": "goda-masala-authentic",
+    "title": "Authentic Shahi Goda Masala",
+    "title_mr": "शाही पारंपारिक गोडा मसाला (काळा मसाला)",
+    "category": "Authentic Masalas",
+    "category_mr": "मसाले",
+    "price": 260,
+    "mrp": 320,
+    "weight_g": 250,
+    "price_per_100g": 104.0,
+    "images": [
+      "https://images.unsplash.com/photo-1596797038530-2c107229654b?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1626777552726-4a6b54c97e46?auto=format&fit=crop&w=800&q=80"
+    ],
+    "ingredients": ["coriander seeds", "dry coconut (kopra)", "dagad phool (stone flower)", "sesame seeds (til)", "cinnamon", "cloves", "black cardamom", "bay leaf", "caraway seeds (shahjeera)", "groundnut oil for roasting"],
+    "allergen": "Contains sesame seeds.",
+    "fssai": "11522055000389",
+    "best_before_days": 270,
+    "nutrition": {
+      "calories": "380 kcal",
+      "fat": "24.0g",
+      "protein": "7.0g",
+      "carbs": "32.0g",
+      "sodium": "180mg"
+    },
+    "tags": ["aromatic", "no-onion-no-garlic", "jain-friendly", "amti-essential", "heritage-spice", "dagad-phool"],
+    "spice_level": "mild",
+    "dietary": ["jain_friendly", "vegan", "gluten_free"],
+    "popularity_score": 98,
+    "rating": 4.94,
+    "review_count": 275,
+    "description": "The crowning jewel of Maharashtrian cuisine. 24 handpicked whole spices and dry copra slow-roasted in pure oil till dark brown. Essential for authentic Maharashtrian Amti, Bharli Vangi, and Masale Bhaat.",
+    "description_mr": "दगडफूल, खोबरे आणि २४ सुगंधी मसाल्यांची योग्य सांगड घालून मंद आचेवर भाजलेला अस्सल गोडा मसाला. आमटी, भरली वांगी आणि मसालेभातासाठी आवश्यक.",
+    "recipe_heritage": "Peshwai-era family recipe preserved since 1954, roasted in small batches without fillers or artificial colors.",
+    "storage": "Store in a dry airtight container. Retains fragrant volatile oils up to 9 months.",
+    "variants": [
+      {"id": "v1", "label": "250g Pack", "price": 260, "weight_g": 250, "price_per_100g": 104.0},
+      {"id": "v2", "label": "500g Jar", "price": 490, "weight_g": 500, "price_per_100g": 98.0}
+    ]
+  },
+  {
+    "id": "kanda-lasun-masala",
+    "title": "Kolhapuri Kanda Lasun Masala",
+    "title_mr": "कोल्हापुरी कांदा लसूण मसाला",
+    "category": "Authentic Masalas",
+    "category_mr": "मसाले",
+    "price": 230,
+    "mrp": 280,
+    "weight_g": 250,
+    "price_per_100g": 92.0,
+    "images": [
+      "https://images.unsplash.com/photo-1596797038530-2c107229654b?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80"
+    ],
+    "ingredients": ["sun-dried onions", "fried garlic flakes", "byadagi & lavangi red chilies", "coriander seeds", "cloves", "black pepper", "turmeric", "pure spices"],
+    "allergen": "Contains onion and garlic.",
+    "fssai": "11522055000389",
+    "best_before_days": 240,
+    "nutrition": {
+      "calories": "320 kcal",
+      "fat": "11.0g",
+      "protein": "8.0g",
+      "carbs": "44.0g",
+      "sodium": "720mg"
+    },
+    "tags": ["spicy", "onion-garlic", "kolhapuri", "misal-special", "rassa-base", "bestseller"],
+    "spice_level": "spicy",
+    "dietary": ["vegan", "gluten_free"],
+    "popularity_score": 97,
+    "rating": 4.9,
+    "review_count": 312,
+    "description": "Deep crimson, deeply aromatic onion-garlic masala blend. The undisputed secret behind Kolhapuri Misal, Usal, and fiery chicken or mutton tarri rassa.",
+    "description_mr": "तळलेला कांदा, लसूण आणि अस्सल लाल तिखटाचा संगम. मिसळ, मटण रस्सा आणि झणझणीत भाज्यांसाठी सर्वोत्तम मसाला.",
+    "recipe_heritage": "Made by slow caramelizing native white and pink onions with garlic before blending with sun-toasted whole spices.",
+    "storage": "Store in a cool and dry cupboard. Seal well to retain the rich pungent aroma.",
+    "variants": [
+      {"id": "v1", "label": "250g Pack", "price": 230, "weight_g": 250, "price_per_100g": 92.0},
+      {"id": "v2", "label": "500g Pack", "price": 420, "weight_g": 500, "price_per_100g": 84.0},
+      {"id": "v3", "label": "1kg Kitchen Pack", "price": 790, "weight_g": 1000, "price_per_100g": 79.0}
+    ]
+  },
+  {
+    "id": "karlyache-lonche",
+    "title": "Karlyache Lonche (Bitter Gourd Pickle)",
+    "title_mr": "कारल्याचे आंबट-गोड-तिखट लोणचे",
+    "category": "Pickles",
+    "category_mr": "लोणची",
+    "price": 250,
+    "mrp": 310,
+    "weight_g": 280,
+    "price_per_100g": 89.2,
+    "images": [
+      "https://images.unsplash.com/photo-1626777552726-4a6b54c97e46?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1596797038530-2c107229654b?auto=format&fit=crop&w=800&q=80"
+    ],
+    "ingredients": ["crisp bitter gourd (karela)", "pure organic jaggery (gul)", "tamarind pulp", "red chili powder", "fenugreek seeds", "mustard oil", "turmeric", "salt"],
+    "allergen": "Contains mustard.",
+    "fssai": "11522055000389",
+    "best_before_days": 180,
+    "nutrition": {
+      "calories": "160 kcal",
+      "fat": "8.5g",
+      "protein": "2.1g",
+      "carbs": "18.0g",
+      "sodium": "980mg"
+    },
+    "tags": ["karela", "bittersweet", "health-conscious", "jaggery", "tamarind", "digestive"],
+    "spice_level": "medium",
+    "dietary": ["vegan", "gluten_free"],
+    "popularity_score": 85,
+    "rating": 4.75,
+    "review_count": 98,
+    "description": "Even karela skeptics fall in love with this! Crisp bitter gourd strips cured with organic Kolhapur jaggery, sour tamarind, and spiced mustard oil. A masterclass in sweet, sour, bitter harmony.",
+    "description_mr": "कारल्याचा कडूपणा घालवून गूळ, चिंच आणि मसाल्यांची सुरेख चव दिलेले अप्रतिम लोणचे. आरोग्यासाठी आणि जिभेसाठी गुणकारी.",
+    "recipe_heritage": "A traditional postpartum and digestive preparation cooked by grandmothers to boost appetite and gut health.",
+    "storage": "Store in glass jar at room temperature. Always use dry spoon.",
+    "variants": [
+      {"id": "v1", "label": "280g Jar", "price": 250, "weight_g": 280, "price_per_100g": 89.2},
+      {"id": "v2", "label": "500g Jar", "price": 440, "weight_g": 500, "price_per_100g": 88.0}
+    ]
+  },
+  {
+    "id": "khobra-lasun-chutney",
+    "title": "Khobra Lasun Dry Chutney",
+    "title_mr": "खोबरे लसूण लाल चटणी (वडापाव चटणी)",
+    "category": "Thecha & Chutneys",
+    "category_mr": "ठेचा आणि चटण्या",
+    "price": 170,
+    "mrp": 210,
+    "weight_g": 200,
+    "price_per_100g": 85.0,
+    "images": [
+      "https://images.unsplash.com/photo-1596797038530-2c107229654b?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80"
+    ],
+    "ingredients": ["grated dry coconut (kopra)", "fried garlic cloves", "kashmiri & reshampatti red chili", "roasted gram flour besan crumbs", "cumin", "salt"],
+    "allergen": "Contains garlic.",
+    "fssai": "11522055000389",
+    "best_before_days": 180,
+    "nutrition": {
+      "calories": "340 kcal",
+      "fat": "26.0g",
+      "protein": "6.0g",
+      "carbs": "19.0g",
+      "sodium": "780mg"
+    },
+    "tags": ["vada-pav-special", "coconut-garlic", "crispy", "mumbai-street-food", "spicy"],
+    "spice_level": "spicy",
+    "dietary": ["vegan", "gluten_free"],
+    "popularity_score": 94,
+    "rating": 4.88,
+    "review_count": 224,
+    "description": "The soul of Mumbai's iconic Vada Pav! Dry desiccated coconut roasted to golden amber with crunchy garlic flakes and bright red chili. Instant upgrade for toasts, sandwiches, and parathas.",
+    "description_mr": "अस्सल मुंबईच्या वडापावची जान! खमंग भाजलेले खोबरे, लसूण आणि लाल मिरचीची चुरचुरीत चटणी.",
+    "recipe_heritage": "Crafted using the authentic street vendor formula of frying garlic unpeeled for intensified rustic aroma.",
+    "storage": "Keep airtight. Remains crunchy and fragrant for months.",
+    "variants": [
+      {"id": "v1", "label": "200g Pack", "price": 170, "weight_g": 200, "price_per_100g": 85.0},
+      {"id": "v2", "label": "400g Duo Pack", "price": 310, "weight_g": 400, "price_per_100g": 77.5}
+    ]
+  },
+  {
+    "id": "malvani-masala-special",
+    "title": "Special Malvani Masala",
+    "title_mr": "खास मालवणी मसाला (कोकणी चव)",
+    "category": "Authentic Masalas",
+    "category_mr": "मसाले",
+    "price": 270,
+    "mrp": 330,
+    "weight_g": 250,
+    "price_per_100g": 108.0,
+    "images": [
+      "https://images.unsplash.com/photo-1596797038530-2c107229654b?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1626777552726-4a6b54c97e46?auto=format&fit=crop&w=800&q=80"
+    ],
+    "ingredients": ["tirphal (sichuan pepper)", "byadagi chili", "star anise", "cinnamon", "cloves", "mace (javitri)", "coriander seeds", "fennel seeds (badishep)", "nagkeshar"],
+    "allergen": "Contains wild Konkani spices.",
+    "fssai": "11522055000389",
+    "best_before_days": 270,
+    "nutrition": {
+      "calories": "350 kcal",
+      "fat": "15.0g",
+      "protein": "8.5g",
+      "carbs": "42.0g",
+      "sodium": "210mg"
+    },
+    "tags": ["konkan", "tirphal", "seafood-special", "vegetarian-curries", "aromatic", "bestseller"],
+    "spice_level": "spicy",
+    "dietary": ["vegan", "gluten_free"],
+    "popularity_score": 95,
+    "rating": 4.92,
+    "review_count": 178,
+    "description": "Authentic coastal Konkan spice blend enriched with wild Tirphal (Konkani pepper), star anise, and whole spices. Indispensable for Malvani fish curry, chicken sukka, and Kala Vatana usal.",
+    "description_mr": "तिरफळ, दगडफूल आणि खास कोकणी मसाल्यांचे मिश्रण. मालवणी मासे, कोंबडी वडे आणि काळ्या वाटाण्याची उसळ यासाठी अप्रतिम.",
+    "recipe_heritage": "Sourced directly from Sindhudurg villages where wood-fired spice roasting preserves pungent essential oils.",
+    "storage": "Store in a cool dry place. Keep sealed.",
+    "variants": [
+      {"id": "v1", "label": "250g Pack", "price": 270, "weight_g": 250, "price_per_100g": 108.0},
+      {"id": "v2", "label": "500g Jar", "price": 510, "weight_g": 500, "price_per_100g": 102.0}
+    ]
+  },
+  {
+    "id": "limbu-masala-lonche",
+    "title": "Limbu Masala Lonche (Spiced Lemon Pickle)",
+    "title_mr": "पारंपारिक लिंबू मसाला लोणचे (तेल नसलेले)",
+    "category": "Pickles",
+    "category_mr": "लोणची",
+    "price": 210,
+    "mrp": 260,
+    "weight_g": 280,
+    "price_per_100g": 75.0,
+    "images": [
+      "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1626777552726-4a6b54c97e46?auto=format&fit=crop&w=800&q=80"
+    ],
+    "ingredients": ["thin-skin Kagzi lemons", "roasted ajwain (carom seeds)", "roasted cumin", "black rock salt (kala namak)", "kashmiri red chili", "dry ginger powder (sunth)"],
+    "allergen": "None. Zero oil formulation.",
+    "fssai": "11522055000389",
+    "best_before_days": 365,
+    "nutrition": {
+      "calories": "95 kcal",
+      "fat": "0.8g",
+      "protein": "1.2g",
+      "carbs": "21.0g",
+      "sodium": "1420mg"
+    },
+    "tags": ["zero-oil", "digestive", "sun-cured", "ajwain", "jain-friendly", "upvas-eligible"],
+    "spice_level": "medium",
+    "dietary": ["jain_friendly", "vegan", "gluten_free"],
+    "popularity_score": 89,
+    "rating": 4.82,
+    "review_count": 116,
+    "description": "Oil-free sun-matured lemon pickle seasoned with digestive ajwain, black salt, and dry ginger. Matured for 40 days under gentle Maharashtra sun until lemon rinds turn meltingly tender.",
+    "description_mr": "कागदी लिंबू, ओवा, काळं मीठ आणि सुंठ घालून ४० दिवस उन्हात मुरवलेले तेलविरहीत पाचक लोणचे.",
+    "recipe_heritage": "Grandmother's restorative home remedy for digestive relief, travel sickness, and simple comfort food meals.",
+    "storage": "Does not spoil for years; improves with age. Use dry spoon.",
+    "variants": [
+      {"id": "v1", "label": "280g Jar", "price": 210, "weight_g": 280, "price_per_100g": 75.0},
+      {"id": "v2", "label": "500g Jar", "price": 380, "weight_g": 500, "price_per_100g": 76.0}
+    ]
+  },
+  {
+    "id": "kairi-methamba-lonche",
+    "title": "Kairi Methamba (Sweet & Tangy Mango Pickle)",
+    "title_mr": "कैरीचा मेथांबा (आंबट-गोड कच्च्या कैरीचे लोणचे)",
+    "category": "Pickles",
+    "category_mr": "लोणची",
+    "price": 260,
+    "mrp": 320,
+    "weight_g": 280,
+    "price_per_100g": 92.8,
+    "images": [
+      "https://images.unsplash.com/photo-1626777552726-4a6b54c97e46?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80"
+    ],
+    "ingredients": ["tart green raw mango (rajapuri kairi)", "crushed organic jaggery", "roasted methi (fenugreek seeds)", "mustard seeds", "red chili powder", "cold-pressed groundnut oil", "hing", "salt"],
+    "allergen": "Contains mustard.",
+    "fssai": "11522055000389",
+    "best_before_days": 180,
+    "nutrition": {
+      "calories": "190 kcal",
+      "fat": "7.5g",
+      "protein": "1.8g",
+      "carbs": "29.0g",
+      "sodium": "860mg"
+    },
+    "tags": ["mango", "methamba", "jaggery", "sweet-tangy", "traditional", "kids-favourite"],
+    "spice_level": "mild",
+    "dietary": ["vegan", "gluten_free"],
+    "popularity_score": 93,
+    "rating": 4.9,
+    "review_count": 156,
+    "description": "The quintessential Maharashtrian summer delicacy! Crisp raw Rajapuri mango cubes simmered with golden jaggery and gentle fenugreek tempering. Sweet, mildly tangy, and irresistibly jammy.",
+    "description_mr": "राजापुरी कैरी, गूळ आणि मेथीच्या खमंग फोडणीत शिजवलेला पारंपारिक मेथांबा. पोळी आणि भातासोबत लहान-मोठ्यांचा आवडता.",
+    "recipe_heritage": "Prepared every Chaitra month to mark the arrival of spring and raw mangoes in Konkan households.",
+    "storage": "Store in clean glass container. Refrigerate during humid monsoon months for maximum freshness.",
+    "variants": [
+      {"id": "v1", "label": "280g Jar", "price": 260, "weight_g": 280, "price_per_100g": 92.8},
+      {"id": "v2", "label": "500g Jar", "price": 460, "weight_g": 500, "price_per_100g": 92.0}
+    ]
+  },
+  {
+    "id": "jawas-chutney",
+    "title": "Healthy Jawas (Flaxseed) Chutney",
+    "title_mr": "पौष्टिक जवस चटणी (फ्लॅक्ससीड चटणी)",
+    "category": "Thecha & Chutneys",
+    "category_mr": "ठेचा आणि चटण्या",
+    "price": 175,
+    "mrp": 220,
+    "weight_g": 200,
+    "price_per_100g": 87.5,
+    "images": [
+      "https://images.unsplash.com/photo-1596797038530-2c107229654b?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80"
+    ],
+    "ingredients": ["brown golden flaxseeds (jawas)", "roasted garlic cloves", "byadagi red chili", "cumin", "rock salt"],
+    "allergen": "Contains garlic. Rich in Omega-3.",
+    "fssai": "11522055000389",
+    "best_before_days": 180,
+    "nutrition": {
+      "calories": "285 kcal",
+      "fat": "19.5g",
+      "protein": "8.8g",
+      "carbs": "14.2g",
+      "sodium": "580mg"
+    },
+    "tags": ["flaxseed", "omega-3", "heart-healthy", "roasted", "dry-chutney", "daily-superfood"],
+    "spice_level": "medium",
+    "dietary": ["vegan", "gluten_free"],
+    "popularity_score": 88,
+    "rating": 4.81,
+    "review_count": 92,
+    "description": "Nutrient-dense superfood chutney crafted with gently popped golden flaxseeds, roasted garlic, and mild chili. Power-packed with plant Omega-3 fatty acids and dietary fiber.",
+    "description_mr": "हृदयासाठी आणि आरोग्यासाठी उत्तम! मंद आचेवर भाजलेले जवस आणि लसणाची खमंग कोरडी चटणी.",
+    "recipe_heritage": "An ancient rural remedy prized by agrarian farming families for joint strength and sustained morning energy.",
+    "storage": "Store in an airtight jar in a cool cupboard.",
+    "variants": [
+      {"id": "v1", "label": "200g Pack", "price": 175, "weight_g": 200, "price_per_100g": 87.5},
+      {"id": "v2", "label": "400g Value Pack", "price": 320, "weight_g": 400, "price_per_100g": 80.0}
+    ]
+  },
+  {
+    "id": "kokum-agal-extract",
+    "title": "Pure Konkan Kokum Agal (Amsul Extract)",
+    "title_mr": "अस्सल कोकणी कोकम आगल (साखरेविना)",
+    "category": "Syrups & Agal",
+    "category_mr": "सरबते आणि आगल",
+    "price": 220,
+    "mrp": 275,
+    "weight_g": 500,
+    "price_per_100g": 44.0,
+    "images": [
+      "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1626777552726-4a6b54c97e46?auto=format&fit=crop&w=800&q=80"
+    ],
+    "ingredients": ["wild crimson kokum rind extract", "natural sea salt"],
+    "allergen": "None. 100% natural pure fruit extract. Zero added sugar.",
+    "fssai": "11522055000389",
+    "best_before_days": 365,
+    "nutrition": {
+      "calories": "35 kcal",
+      "fat": "0.1g",
+      "protein": "0.5g",
+      "carbs": "8.0g",
+      "sodium": "690mg"
+    },
+    "tags": ["kokum", "solkadhi-essential", "cooling", "digestive", "sugar-free", "konkan-special"],
+    "spice_level": "mild",
+    "dietary": ["jain_friendly", "vegan", "gluten_free", "sugar_free"],
+    "popularity_score": 91,
+    "rating": 4.93,
+    "review_count": 164,
+    "description": "100% natural, unsweetened extract of dark purple wild Konkan kokum fruit preserved with sea salt. The soul of traditional Solkadhi, fish curry souring, and summer cooling drinks.",
+    "description_mr": "कोकणातील अस्सल रानटी कोकमाचा अर्क (साखर नसलेला). सोलकढी, आमटी आणि माशांच्या कालवणासाठी सर्वोत्तम आंबट पर्याय.",
+    "recipe_heritage": "Hand-pressed from tree-ripened kokum grown in rain-fed orchards across coastal Sindhudurg and Ratnagiri.",
+    "storage": "Keep bottle tightly capped. Store in refrigerator after opening for maximum freshness.",
+    "variants": [
+      {"id": "v1", "label": "500ml Glass Bottle", "price": 220, "weight_g": 500, "price_per_100g": 44.0},
+      {"id": "v2", "label": "1000ml Family Bottle", "price": 390, "weight_g": 1000, "price_per_100g": 39.0}
+    ]
+  },
+  {
+    "id": "bhajani-chakli-mix",
+    "title": "Traditional Bhajani Chakli Flour Mix",
+    "title_mr": "खमंग भाजणी चकली पीठ (पारंपारिक प्रमाण)",
+    "category": "Snacks & Faral",
+    "category_mr": "खाद्यपदार्थ आणि फराळ",
+    "price": 195,
+    "mrp": 240,
+    "weight_g": 500,
+    "price_per_100g": 39.0,
+    "images": [
+      "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1596797038530-2c107229654b?auto=format&fit=crop&w=800&q=80"
+    ],
+    "ingredients": ["roasted rice", "chana dal", "urad dal", "moong dal", "poha (flattened rice)", "coriander seeds", "cumin seeds", "carom seeds (ajwain)"],
+    "allergen": "Contains lentils and carom seeds.",
+    "fssai": "11522055000389",
+    "best_before_days": 180,
+    "nutrition": {
+      "calories": "370 kcal",
+      "fat": "4.2g",
+      "protein": "14.5g",
+      "carbs": "68.0g",
+      "sodium": "45mg"
+    },
+    "tags": ["chakli", "diwali-faral", "crispy", "multigrain", "roasted", "festive"],
+    "spice_level": "mild",
+    "dietary": ["jain_friendly", "vegan"],
+    "popularity_score": 94,
+    "rating": 4.89,
+    "review_count": 218,
+    "description": "4-dal multigrain flour slow-roasted to golden crispness in exact traditional proportions. Yields crunchiest, spikiest spiral chaklis with guaranteed melt-in-mouth texture.",
+    "description_mr": "तांदूळ, चार प्रकारच्या डाळी, धणे आणि जिरे योग्य प्रमाणात भाजून दळलेले खमंग चकलीचे पीठ. कुरकुरीत चकलीची हमी!",
+    "recipe_heritage": "Made using grandmother's secret grain-to-dal roasting ratio that prevents chaklis from absorbing excess oil.",
+    "storage": "Store in an airtight container away from moisture.",
+    "variants": [
+      {"id": "v1", "label": "500g Pack", "price": 195, "weight_g": 500, "price_per_100g": 39.0},
+      {"id": "v2", "label": "1kg Pack", "price": 360, "weight_g": 1000, "price_per_100g": 36.0}
+    ]
+  },
+  {
+    "id": "upvas-rajgira-chivda",
+    "title": "Upvas Special Rajgira Batata Chivda",
+    "title_mr": "उपवास स्पेशल राजगिरा बटाटा चिवडा",
+    "category": "Upvas & Fasting",
+    "category_mr": "उपवास फराळ",
+    "price": 150,
+    "mrp": 190,
+    "weight_g": 200,
+    "price_per_100g": 75.0,
+    "images": [
+      "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1596797038530-2c107229654b?auto=format&fit=crop&w=800&q=80"
+    ],
+    "ingredients": ["popped amaranth (rajgira)", "crispy shredded potatoes", "roasted peanuts", "green chilies", "sendha namak (rock salt)", "pure ghee tempering", "sugar"],
+    "allergen": "Contains peanuts. 100% Upvas/fasting compliant.",
+    "fssai": "11522055000389",
+    "best_before_days": 120,
+    "nutrition": {
+      "calories": "260 kcal",
+      "fat": "12.0g",
+      "protein": "5.5g",
+      "carbs": "32.0g",
+      "sodium": "380mg"
+    },
+    "tags": ["upvas", "fasting", "rajgira", "sendha-namak", "crunchy", "light-snack"],
+    "spice_level": "mild",
+    "dietary": ["upvas", "gluten_free", "jain_friendly"],
+    "popularity_score": 90,
+    "rating": 4.87,
+    "review_count": 134,
+    "description": "Delightfully crunchy fasting chivda prepared with popped rajgira, crisp potato sticks, crunchy peanuts, and rock salt with gentle green chili zing. Perfect for Ekadashi and Navratri.",
+    "description_mr": "राजगिरा लाह्या, कुरकुरीत बटाटा कीस, शेंगदाणे आणि सैंधव मिठाने तयार केलेला उपवासाचा चविष्ट चिवडा.",
+    "recipe_heritage": "Cooked exclusively in separate pure dedicated utensils using Sendha Namak for religious fasting purity.",
+    "storage": "Store in an airtight container to preserve crunchiness.",
+    "variants": [
+      {"id": "v1", "label": "200g Pack", "price": 150, "weight_g": 200, "price_per_100g": 75.0},
+      {"id": "v2", "label": "400g Duo Pack", "price": 280, "weight_g": 400, "price_per_100g": 70.0}
+    ]
+  }
+]

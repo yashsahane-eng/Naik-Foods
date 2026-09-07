@@ -1,0 +1,21 @@
+[
+  { "pincode": "411001", "city": "Pune", "state": "Maharashtra", "days": 1, "serviceable": true, "cod": true, "express": true },
+  { "pincode": "411030", "city": "Pune (Sadashiv Peth)", "state": "Maharashtra", "days": 1, "serviceable": true, "cod": true, "express": true },
+  { "pincode": "411038", "city": "Pune (Kothrud)", "state": "Maharashtra", "days": 1, "serviceable": true, "cod": true, "express": true },
+  { "pincode": "400001", "city": "Mumbai (Fort)", "state": "Maharashtra", "days": 2, "serviceable": true, "cod": true, "express": true },
+  { "pincode": "400028", "city": "Mumbai (Dadar)", "state": "Maharashtra", "days": 2, "serviceable": true, "cod": true, "express": true },
+  { "pincode": "400050", "city": "Mumbai (Bandra)", "state": "Maharashtra", "days": 2, "serviceable": true, "cod": true, "express": true },
+  { "pincode": "416001", "city": "Kolhapur (City)", "state": "Maharashtra", "days": 1, "serviceable": true, "cod": true, "express": true },
+  { "pincode": "413001", "city": "Solapur", "state": "Maharashtra", "days": 2, "serviceable": true, "cod": true, "express": true },
+  { "pincode": "440001", "city": "Nagpur", "state": "Maharashtra", "days": 2, "serviceable": true, "cod": true, "express": true },
+  { "pincode": "422001", "city": "Nashik", "state": "Maharashtra", "days": 2, "serviceable": true, "cod": true, "express": true },
+  { "pincode": "415001", "city": "Satara", "state": "Maharashtra", "days": 1, "serviceable": true, "cod": true, "express": true },
+  { "pincode": "416501", "city": "Sindhudurg / Sawantwadi", "state": "Maharashtra", "days": 2, "serviceable": true, "cod": true, "express": true },
+  { "pincode": "560001", "city": "Bengaluru", "state": "Karnataka", "days": 3, "serviceable": true, "cod": true, "express": false },
+  { "pincode": "560034", "city": "Bengaluru (Koramangala)", "state": "Karnataka", "days": 3, "serviceable": true, "cod": true, "express": false },
+  { "pincode": "500001", "city": "Hyderabad", "state": "Telangana", "days": 3, "serviceable": true, "cod": true, "express": false },
+  { "pincode": "110001", "city": "New Delhi (Connaught Place)", "state": "Delhi", "days": 3, "serviceable": true, "cod": true, "express": false },
+  { "pincode": "380001", "city": "Ahmedabad", "state": "Gujarat", "days": 3, "serviceable": true, "cod": true, "express": false },
+  { "pincode": "600001", "city": "Chennai", "state": "Tamil Nadu", "days": 4, "serviceable": true, "cod": true, "express": false },
+  { "pincode": "700001", "city": "Kolkata", "state": "West Bengal", "days": 4, "serviceable": true, "cod": true, "express": false }
+]

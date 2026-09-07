@@ -1,0 +1,62 @@
+[
+  {
+    "id": "pickles",
+    "name": "Pickles",
+    "name_mr": "पारंपारिक लोणची",
+    "description": "Sun-cured and cold-pressed oil pickles with Aaji's age-old spices.",
+    "description_mr": "आजीच्या हातची अस्सल चव, शुद्ध मोहरीच्या तेलात मुरवलेली लोणची.",
+    "image": "https://images.unsplash.com/photo-1626777552726-4a6b54c97e46?auto=format&fit=crop&w=800&q=80",
+    "item_count": 4,
+    "featured": true
+  },
+  {
+    "id": "thecha-chutneys",
+    "name": "Thecha & Chutneys",
+    "name_mr": "ठेचा आणि खमंग चटण्या",
+    "description": "Stone-pounded spicy thechas and dry roasted rustic chutneys.",
+    "description_mr": "खलबत्त्यात कुटलेला झणझणीत ठेचा आणि सोलापुरी खमंग चटण्या.",
+    "image": "https://images.unsplash.com/photo-1596797038530-2c107229654b?auto=format&fit=crop&w=800&q=80",
+    "item_count": 4,
+    "featured": true
+  },
+  {
+    "id": "authentic-masalas",
+    "name": "Authentic Masalas",
+    "name_mr": "अस्सल महाराष्ट्रीयन मसाले",
+    "description": "Heritage slow-roasted Goda, Kanda-Lasun, and coastal Malvani spice blends.",
+    "description_mr": "दगडफूल, खोबरे आणि २४ मसाल्यांची सांगड घातलेले काळे व लाल मसाले.",
+    "image": "https://images.unsplash.com/photo-1596797038530-2c107229654b?auto=format&fit=crop&w=800&q=80",
+    "item_count": 3,
+    "featured": true
+  },
+  {
+    "id": "syrups-agal",
+    "name": "Syrups & Agal",
+    "name_mr": "कोकम आगल आणि सरबते",
+    "description": "Pure unsweetened Konkani Kokum extract, Amla juice, and fruit pulps.",
+    "description_mr": "सोलकढी आणि पाचक सरबतांसाठी अस्सल कोकणी कोकम आगल.",
+    "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80",
+    "item_count": 1,
+    "featured": false
+  },
+  {
+    "id": "snacks-faral",
+    "name": "Snacks & Faral",
+    "name_mr": "खाद्यपदार्थ आणि फराळ",
+    "description": "Crisp Bhajani Chakli flours, Poha Chivda, and festive delicacies.",
+    "description_mr": "पारंपारिक भाजणी चकली पीठ आणि खमंग खुसखुशीत फराळ.",
+    "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80",
+    "item_count": 1,
+    "featured": false
+  },
+  {
+    "id": "upvas-fasting",
+    "name": "Upvas & Fasting",
+    "name_mr": "उपवास फराळ",
+    "description": "Purity-certified Faral snacks made exclusively with rock salt and ghee.",
+    "description_mr": "एकादशी आणि उपवासासाठी शुद्ध सैंधव मिठाने बनवलेला फराळ.",
+    "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80",
+    "item_count": 1,
+    "featured": false
+  }
+]

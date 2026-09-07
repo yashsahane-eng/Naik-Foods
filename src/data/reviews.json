@@ -1,0 +1,71 @@
+[
+  {
+    "id": "rev-1",
+    "productId": "ambadi-bhajiche-lonche",
+    "userName": "Anjali Deshmukh",
+    "location": "Pune, Maharashtra",
+    "rating": 5,
+    "title": "Exact same taste as my grandmother's recipe in Kolhapur!",
+    "comment": "Finding authentic Ambadi lonche in the market was impossible until I ordered from Naik Foods. The balance of tartness from roselle leaves with mustard oil is heavenly. Had it with hot jowar bhakri and white butter. Will order the 1kg pack next time!",
+    "date": "2026-08-14",
+    "verified": true,
+    "photos": [
+      "https://images.unsplash.com/photo-1626777552726-4a6b54c97e46?auto=format&fit=crop&w=600&q=80"
+    ],
+    "helpful": 32
+  },
+  {
+    "id": "rev-2",
+    "productId": "kolhapuri-mirchi-thecha",
+    "userName": "Sachin Kadam",
+    "location": "Thane, Mumbai",
+    "rating": 5,
+    "title": "True Kolhapuri fire! Pounded texture is amazing.",
+    "comment": "Most store-bought thechas are just pureed paste. Naik Foods preserved the authentic stone-crushed coarse texture with garlic chunks and roasted peanuts. It has serious heat, so tread carefully!",
+    "date": "2026-08-20",
+    "verified": true,
+    "photos": [
+      "https://images.unsplash.com/photo-1596797038530-2c107229654b?auto=format&fit=crop&w=600&q=80"
+    ],
+    "helpful": 48
+  },
+  {
+    "id": "rev-3",
+    "productId": "goda-masala-authentic",
+    "userName": "Sunita Patwardhan",
+    "location": "Dombivli, Maharashtra",
+    "rating": 5,
+    "title": "Aroma filled my entire kitchen!",
+    "comment": "The dagad phool and roasted coconut notes in this Goda Masala make our daily amti taste like festive wedding feast amti. Pure quality without adulteration.",
+    "date": "2026-08-25",
+    "verified": true,
+    "photos": [],
+    "helpful": 19
+  },
+  {
+    "id": "rev-4",
+    "productId": "shengdana-chutney",
+    "userName": "Rahul Shinde",
+    "location": "Solapur, Maharashtra",
+    "rating": 5,
+    "title": "Authentic Solapuri crunch",
+    "comment": "Crispy roasted peanuts, not oily at all. Perfect with curd and chapati during busy mornings.",
+    "date": "2026-08-30",
+    "verified": true,
+    "photos": [],
+    "helpful": 14
+  },
+  {
+    "id": "rev-5",
+    "productId": "ambadi-bhajiche-lonche",
+    "userName": "Meera Joshi",
+    "location": "Bengaluru, Karnataka",
+    "rating": 4,
+    "title": "Loved the tanginess, packed very securely",
+    "comment": "Delivered to Bengaluru in 3 days without any oil leakage. Bubble-wrapped tightly. Tangy and spicy. Reminds me of home.",
+    "date": "2026-09-02",
+    "verified": true,
+    "photos": [],
+    "helpful": 8
+  }
+]

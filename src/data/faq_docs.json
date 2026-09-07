@@ -1,0 +1,65 @@
+[
+  {
+    "id": "faq-1",
+    "category": "Ingredients & Health",
+    "question": "Which Naik Foods products are Jain-friendly (without onion and garlic)?",
+    "content": "Our Jain-friendly items include: Authentic Shahi Goda Masala, Limbu Masala Lonche (Spiced Lemon Pickle), Pure Konkan Kokum Agal, Traditional Bhajani Chakli Flour, and Upvas Rajgira Chivda. None of these contain onion or garlic, and they are prepared in adherence to strict cleanliness standards.",
+    "tags": ["jain", "no onion", "no garlic", "pure veg", "ingredients"]
+  },
+  {
+    "id": "faq-2",
+    "category": "Fasting & Upvas",
+    "question": "What products are safe for Upvas (religious fasting) like Ekadashi or Navratri?",
+    "content": "For religious fasting (Upvas), we have our dedicated 'Upvas Special Rajgira Batata Chivda' prepared exclusively with Sendha Namak (rock salt) and pure ghee. Additionally, our 'Pure Konkan Kokum Agal' and 'Limbu Masala Lonche' contain no grain or unpermitted additives and can be consumed depending on your family tradition.",
+    "tags": ["upvas", "fasting", "ekadashi", "navratri", "sendha namak", "rajgira"]
+  },
+  {
+    "id": "faq-3",
+    "category": "Storage & Shelf Life",
+    "question": "What is the shelf life of your pickles and how should I store them?",
+    "content": "Our pickles have a shelf life of 180 to 365 days from the date of manufacture. Because we do not use chemical preservatives like sodium benzoate, our pickles are naturally preserved using cold-pressed mustard or groundnut oil and sea salt. Always use a clean, bone-dry spoon. Ensure the natural oil floating layer remains intact over the pickle, and avoid dipping wet fingers or spoons.",
+    "tags": ["shelf life", "expiry", "preservatives", "storage", "oil layer", "spoilage"]
+  },
+  {
+    "id": "faq-4",
+    "category": "Heritage & Oil Quality",
+    "question": "What oils are used in Naik Foods pickles and thechas?",
+    "content": "We exclusively use authentic cold-pressed (Kachi Ghani) mustard oil for traditional pickles like Ambadi Lonche and Kairi Methamba, and pure wood-pressed groundnut oil (shingdana tel) for Kolhapuri Thecha and Shengdana Chutney. We NEVER use refined palm oil, cottonseed oil, or artificial flavor enhancers.",
+    "tags": ["oil", "cold pressed", "kachi ghani", "mustard oil", "groundnut oil", "refined oil"]
+  },
+  {
+    "id": "faq-5",
+    "category": "Shipping & Delivery",
+    "question": "How long does delivery take and what is the free shipping policy?",
+    "content": "Orders placed before 2 PM are dispatched the same day. Delivery takes 1-2 business days across Maharashtra (Pune, Mumbai, Kolhapur, Nagpur, Nashik) and 2-4 business days for other major Indian metros like Bengaluru, Hyderabad, and Delhi. We provide 100% FREE delivery on all orders above ₹599 across India. Standard delivery is ₹60 for orders below ₹599.",
+    "tags": ["shipping", "delivery", "eta", "free delivery", "charges", "courier", "timeline"]
+  },
+  {
+    "id": "faq-6",
+    "category": "Packaging & Glass Jars",
+    "question": "How do you prevent glass jars from breaking during transit?",
+    "content": "Every glass jar is individually vacuum-sealed with food-grade foil, ensconced in thick honeycomb bubble cushioning, and packed inside heavy corrugated drop-tested boxes. In the rare event of damage in transit, we offer a 100% free instant replacement guarantee if you share an unboxing photo.",
+    "tags": ["packaging", "glass", "breakage", "damage", "replacement", "safety"]
+  },
+  {
+    "id": "faq-7",
+    "category": "FSSAI Certification",
+    "question": "Is Naik Foods FSSAI certified and lab-tested?",
+    "content": "Yes, Naik Foods is fully licensed under Central FSSAI License No. 11522055000389. Every batch of spices, pickles, and flours undergoes laboratory testing for moisture content, aflatoxins, and microbiological purity.",
+    "tags": ["fssai", "license", "lab test", "certification", "safety", "hygiene"]
+  },
+  {
+    "id": "faq-8",
+    "category": "Cooking & Usage",
+    "question": "What is the difference between Goda Masala and regular Garam Masala?",
+    "content": "Goda Masala (also known as Kala Masala) is unique to Maharashtra. Unlike North Indian Garam Masala which is pungent and cinnamon-forward, Goda Masala is mild, subtly sweet, and smoky. It owes its distinct dark color and aroma to roasted dry coconut (kopra), sesame seeds, and Dagad Phool (stone flower lichen) roasted gently in groundnut oil. It is essential for Amti, Bharli Vangi, and Katachi Amti.",
+    "tags": ["goda masala", "garam masala", "kala masala", "dagad phool", "amti", "difference"]
+  },
+  {
+    "id": "faq-9",
+    "category": "Ingredients & Health",
+    "question": "What are the health benefits of Ambadi (Roselle) Bhaji?",
+    "content": "Ambadi (Hibiscus sabdariffa / Roselle) leaves are naturally rich in Vitamin C, Iron, dietary antioxidants, and natural fruit acids. In traditional Vidarbha and Marathwada medicine, Ambadi pickle is celebrated for purifying blood, aiding digestive fire, and boosting hemoglobin levels.",
+    "tags": ["ambadi", "roselle", "health benefits", "iron", "vitamin c", "digestion"]
+  }
+]

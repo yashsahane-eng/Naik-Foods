@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <circle cx="32" cy="32" r="30" fill="#B45309" stroke="#78350F" stroke-width="3"/>
+  <circle cx="32" cy="32" r="25" fill="#DC2626"/>
+  <!-- Traditional Barni / Pickle Jar motif -->
+  <path d="M22 24C22 20 42 20 42 24L40 46C40 49 37 51 32 51C27 51 24 49 24 46L22 24Z" fill="#FFFBEB" stroke="#78350F" stroke-width="2"/>
+  <ellipse cx="32" cy="24" rx="10" ry="3" fill="#F59E0B" stroke="#78350F" stroke-width="2"/>
+  <path d="M28 17C28 15 36 15 36 17V21H28V17Z" fill="#DC2626" stroke="#78350F" stroke-width="2"/>
+  <!-- Decorative leaf/chili -->
+  <path d="M32 29C35 32 35 39 32 42C29 39 29 32 32 29Z" fill="#15803D"/>
+  <circle cx="32" cy="36" r="2" fill="#FEF08A"/>
+</svg>
